@@ -2,10 +2,7 @@
 
 https://www.youtube.com/watch?v=G_nVMUtaqCk
 
-DevOps Roadmap for YOUR specific background
-
-https://www.youtube.com/watch?v=G_nVMUtaqCk
-17:29 
+https://raw.githubusercontent.com/RodrigoMvs123/DevOps-Roadmap-for-YOUR-specific-background/main/README.md
 
 How to get into DevOps ?
 
