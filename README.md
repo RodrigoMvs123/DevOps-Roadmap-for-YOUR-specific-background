@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=G_nVMUtaqCk
 
 https://raw.githubusercontent.com/RodrigoMvs123/DevOps-Roadmap-for-YOUR-specific-background/main/README.md
 
+https://github.com/RodrigoMvs123/DevOps-Roadmap-for-YOUR-specific-background/blame/main/README.md
+
 How to get into DevOps ?
 
 What and which order you need to learn? 
